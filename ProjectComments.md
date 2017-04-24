@@ -41,7 +41,51 @@ What were aspects of the presentations for which you had concerns or questions: 
 
 Title of presentation: Gaming
 
-What were aspects of the presentation that you liked:
+What were aspects of the presentation that you liked: Was very in depth on how they built features, interesting variables
 
-What were aspects of the presentations for which you had concerns or questions:
+What were aspects of the presentations for which you had concerns or questions: What does full table look like? Like a row. Also, I am familiar with the game and the roles each player can take like top or jungle but others very clearly did not so touching more on that in the beginning would have been a good idea.
 
+
+
+
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked: Made it more interesting by focusing on Wisconsin/UW Madison.
+
+What were aspects of the presentations for which you had concerns or questions: Most data was easy to digest, but cluster analysis radar plots were somewhat tough to understand fully.
+
+
+
+
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked: Very interesting map after controlling for population. Could see a large correlation between higher public transportation availability and a lower traffic death rate.
+
+What were aspects of the presentations for which you had concerns or questions: Hard to justify just setting N/A deaths to 0 but understandable how there really isn't any better alternatives besides removing the row entirely.
+
+
+
+
+Title of presentation: Songs
+
+What were aspects of the presentation that you liked: GIF plot is a very intriguing idea but difficult because cannot fully analyze that data that it provides except that "love" is the most used word. Interesting analysis of the lyrics of data.    
+
+What were aspects of the presentations for which you had concerns or questions: Some of your analysis like your threshold for rhyming and others are difficult to understand.
+
+
+
+
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked: Looking into the current season and current players comparing them to those of the past was really cool in my opinion.
+
+What were aspects of the presentations for which you had concerns or questions: Some basketball terms are lost on some in your audience just just explain things like "beyond the arc" and "In the paint" in your paper. Understandable to ignore OT since not every game goes into it but it is a big factor in basketball so tough to justify why.
+
+
+
+
+Title of presentation: Terrorism
+
+What were aspects of the presentation that you liked: Very interesting phenomina occuring with the data as you pointed out.
+
+What were aspects of the presentations for which you had concerns or questions: Made sense why you took out the location 2-4 columns but why the other ones? Animation made the data very interesting; however, 9 animations to look at at once is extremely difficult at that speed or really at all.
